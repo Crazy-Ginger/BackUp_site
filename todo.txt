@@ -1,0 +1,17 @@
+JS:
+implement a hashing function (MD5) that checks the user's selected photos on client side
+send the collection of hashes to the server to check against some hashed that had similar time stamps
+
+main web system:
+implement a login system that remembers users
+auto-log out users when they leave/close the page
+allow the users to upload files from their file system
+upload the files that don't already exist on the server
+allow the user to download a selection of files from the server
+create a log format this should be cross referenced with the user logging in and what they uploaded last time to try and find an optimal upload method
+
+css & fancy-ness:
+make a display of some images and collect them according to some metric (date?)
+make UI pretty
+add captcha support to reduce the chance of bot infiltration
+
